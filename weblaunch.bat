@@ -1,0 +1,1 @@
+@C:\Users\Piyush\AppData\Local\Programs\Python\Python36-32\python.exe C:\MyPythonScripts\webl.py %*

@@ -1,0 +1,1 @@
+@C:\Users\Piyush\AppData\Local\Programs\Python\Python36\python.exe P:\MyPythonScripts\mapIt.py %*
