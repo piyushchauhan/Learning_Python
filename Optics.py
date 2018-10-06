@@ -1,4 +1,4 @@
-#This program is to solve optics problems
+#This program is to solve optics problems try to make the lens class
 class Optics:
         Greetings="Hello there"
         Details=""""
