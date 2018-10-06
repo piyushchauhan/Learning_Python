@@ -1,5 +1,5 @@
 # Learning_Python
-This repository contains the programs I wrote while learning Python from the the book  "Automate the Boring Stuff with Python" (https://automatetheboringstuff.com/)
+This repository contains the programs I wrote while learning Python from the the book.  "Automate the Boring Stuff with Python" (https://automatetheboringstuff.com/)
 
 You can do the following things from this book.
 
@@ -10,3 +10,4 @@ You can do the following things from this book.
 5> Split, merge, watermark, and encrypt PDFs
 6> Send reminder emails and text notifications
 7> Fill out online forms
+Try to make full use of this book and the programs written.
