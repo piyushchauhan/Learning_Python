@@ -14,7 +14,8 @@ def isPhoneNumber(text):
     for i in range(8, 12):
         if not text[i].isdecimal():
             return False
-        return True
+        else:
+            return True
 print('415-555-4242 is a phone number:')
 print(isPhoneNumber('415-555-4242'))
 print('Moshi moshi is a phone number:')
