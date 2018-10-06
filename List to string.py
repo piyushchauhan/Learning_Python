@@ -5,7 +5,7 @@ example, passing the previous spam list to the function would return 'apples, ba
 tofu, and cats'. But your function should be able to work with any list value passed to
 it.
 """
-print('Hello there.')
+print('Hello there')
 while True:
     try:
         length=int(input('Type the length of the list you are going to make: '))
