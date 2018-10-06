@@ -4,7 +4,7 @@ import subprocess
 import time
 import sys
 
-# string variable is a prompt message
+# string variable is a prompt message.
 string = '''
 To exit press ENTER. 
 To restart with new time type the time and then press ENTER'''
