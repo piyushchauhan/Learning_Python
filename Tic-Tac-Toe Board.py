@@ -34,15 +34,15 @@ def checkFinish(board):
     elif check(board['low-L'], board['low-M'], board['low-R']):
         return True
 
-    # L col
+    # L column
     elif check(board['top-L'], board['mid-L'], board['low-L']):
         return True
 
-    # R col
+    # R column
     elif check(board['top-R'], board['mid-R'], board['low-R']):
         return True
 
-    # M col
+    # M column
     elif check(board['top-M'], board['mid-M'], board['low-M']):
         return True
 
