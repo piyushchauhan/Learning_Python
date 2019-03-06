@@ -9,7 +9,7 @@ class Optics:
             LV-->concave
         f----->focal length of the mirror with sign         |||   u----->signed object dist from optical centre
         h0---->height o the object                          |||   v----->signed image dist from optical centre
-        h1---->height of the image                          |||   m----->linear magnification
+        h1---->height of the image                           |||   m----->linear magnification
         """"
     def get(x):
         x=input("Enter "+x)
